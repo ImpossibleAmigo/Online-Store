@@ -7,4 +7,8 @@
     <RootNamespace>Online_Store</RootNamespace>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Folder Include="CppModules\bin\" />
+  </ItemGroup>
+
 </Project>
